@@ -1,7 +1,5 @@
 [0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/pio/workspace/temp/ChatServer/target/scala-2.13/akka-quickstart-scala_2.13-1.0.jar ...[0m
 [0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /Users/pio/workspace/temp/ChatServer/target/scala-2.13/classes[0m
 [0m[[0m[0mdebug[0m] [0m[0m	com[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/pio/workspace/temp/ChatServer/target/scala-2.13/classes/com[0m
 [0m[[0m[0mdebug[0m] [0m[0m	com/temp[0m
@@ -36,6 +34,4 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/pio/workspace/temp/ChatServer/target/scala-2.13/classes/com/temp/TCPConnectionManager$$anonfun$receive$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	com/temp/TCPConnectionManager.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/pio/workspace/temp/ChatServer/target/scala-2.13/classes/com/temp/TCPConnectionManager.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	logback.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /Users/pio/workspace/temp/ChatServer/target/scala-2.13/classes/logback.xml[0m
 [0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
