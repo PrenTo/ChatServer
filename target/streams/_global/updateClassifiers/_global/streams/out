@@ -1,0 +1,3 @@
+[debug] "not up to date. inChanged = true, force = false
+[debug] Updating ProjectRef(uri("file:/Users/pio/workspace/temp/chat-server/"), "chat-server")...
+[debug] Done updating ProjectRef(uri("file:/Users/pio/workspace/temp/chat-server/"), "chat-server")
